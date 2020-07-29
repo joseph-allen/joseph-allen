@@ -1,10 +1,6 @@
-### Hi I am Joe Allen 👋
+### Welcome to Joseph Allen 👋
 
-<!--
-**joseph-allen/joseph-allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/joseph-allen/joseph-allen/blob/master/Capture.JPG
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
--->
+- 🔭 I’m currently working as a freelance React developer
+- 📫 How to reach me: my contact form [Here](https://joseph-allen.github.io/#contact)
